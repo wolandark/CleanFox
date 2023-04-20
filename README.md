@@ -19,4 +19,4 @@ A Clean firefox userstylesheet in CSS
 
 6. Enjoy!
 
-## 🚀 Usage
+This is a fork of [simplefox](https://github.com/migueravila/SimpleFox)
