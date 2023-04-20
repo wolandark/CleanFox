@@ -1,5 +1,9 @@
 # CleanFox
-A Clean firefox userstylesheet in CSS
+A Clean firefox userstylesheet in CSS <br>
+
+Close to vanilla firefox look but cleaner and more compact and without sacrificing usability or needing to alter your workflow <br>
+
+![FF](https://user-images.githubusercontent.com/107309764/233371225-fd9a755f-74a0-4be1-9392-8e2b211270dc.png)
 
 ## ⚙️ Installation
 
@@ -20,3 +24,4 @@ A Clean firefox userstylesheet in CSS
 6. Enjoy!
 
 This is a fork of [simplefox](https://github.com/migueravila/SimpleFox)
+
